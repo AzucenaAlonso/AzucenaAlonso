@@ -9,16 +9,13 @@
 
 ---
 
-🧩 Acerca de mí
-Apasionada por la tecnología y el desarrollo web, actualmente me estoy formando como Full Stack Developer en un BootCamp intensivo, donde estoy adquiriendo experiencia práctica en el desarrollo de aplicaciones web completas, tanto en frontend como en backend.
-
-Trabajo a diario con tecnologías como HTML, CSS, JavaScript, React, Node.js, Express y MongoDB, desarrollando proyectos reales y aprendiendo metodologías de trabajo en equipo, control de versiones con Git y buenas prácticas de programación.
-
-Aunque aún no tengo experiencia profesional, sí tengo muchas ganas de aprender, crecer en equipo y aportar desde el primer día. Mi objetivo es comenzar mi carrera como desarrolladora en un entorno donde pueda seguir aprendiendo, evolucionar como profesional y sumar valor.
-
+🧩 Acerca de mí <br>
+Apasionada por la tecnología y el desarrollo web, actualmente me estoy formando como Full Stack Developer en un BootCamp intensivo, donde estoy adquiriendo experiencia práctica en el desarrollo de aplicaciones web completas, tanto en frontend como en backend.<br>
+Trabajo a diario con tecnologías como HTML, CSS, JavaScript, React, Node.js, Express y MongoDB, desarrollando proyectos reales y aprendiendo metodologías de trabajo en equipo, control de versiones con Git y buenas prácticas de programación.<br>
+Aunque aún no tengo experiencia profesional, sí tengo muchas ganas de aprender, crecer en equipo y aportar desde el primer día. <br> Mi objetivo es comenzar mi carrera como desarrolladora en un entorno donde pueda seguir aprendiendo, evolucionar como profesional y sumar valor.<br>
 Estoy abierta a nuevas oportunidades laborales y prácticas que me permitan dar el siguiente paso.
 
-🚀 Buscando mi primera oportunidad como Full Stack Developer.
+🚀 Buscando mi primera oportunidad como Full Stack Developer. <br>
 💻 Siempre aprendiendo. Siempre con ganas.
 
 ---
