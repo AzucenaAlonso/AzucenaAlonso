@@ -1,4 +1,4 @@
-✨ ¡Hola! Soy Azucena Alonso 👩‍💻 — Busco mi primer rol como Desarrolladora Full Stack (Angular/Node.js).
+<h1>✨ ¡Hola! Soy Azucena Alonso 👩‍💻 — Desarrolladora Full Stack (Angular/Node.js).</h1>
 
 Mi pasión por construir soluciones web me llevó a mi primera experiencia práctica en diciembre de 2023, donde trabajé como desarrolladora web en prácticas dentro de una oficina, enfrentando mis primeros proyectos reales y aprendiendo a colaborar en equipo.
 Desde entonces, mi compromiso ha sido constante. He dedicado este tiempo a profundizar mis habilidades, culminando en octubre de 2025 con el Máster Full Stack Developer.
