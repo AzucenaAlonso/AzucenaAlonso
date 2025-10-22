@@ -25,7 +25,7 @@ Soy organizada y metódica, disfruto resolviendo problemas de forma práctica y 
 - **Qué hace:** Dashboard interactivo, componentes reutilizables y diseño responsive  
 - **Trabajo en equipo:** Git, control de versiones, revisión de código y metodologías ágiles  
 - **Herramientas adicionales:** Swagger para documentación e integración de API  
-- **Enlace ** [TorcerBeard FrontEnd](https://torced-bird-front-end.vercel.app/)  
+- **Enlace:** [TorcerBeard FrontEnd](https://torced-bird-front-end.vercel.app/)  
 
 ---
 
