@@ -1,14 +1,13 @@
-# ✨ ¡Hola! Soy Azucena Alonso 👩‍💻
+✨ ¡Hola! Soy Azucena Alonso 👩‍💻 — Busco mi primer rol como Desarrolladora Full Stack (Angular/Node.js).
 
-Soy desarrolladora Full Stack y me gusta crear aplicaciones web que no solo funcionen, sino que sean claras, fáciles de usar y útiles para quienes las emplean.  
-🎯 Disfruto trabajando en equipo, compartiendo ideas y aprendiendo de cada proyecto.  
-💡 Me motiva enfrentar retos reales y resolver problemas con creatividad y orden.
+Mi pasión por construir soluciones web me llevó a mi primera experiencia práctica en diciembre de 2023, donde trabajé como desarrolladora web en prácticas dentro de una oficina, enfrentando mis primeros proyectos reales y aprendiendo a colaborar en equipo.
+Desde entonces, mi compromiso ha sido constante. He dedicado este tiempo a profundizar mis habilidades, culminando en octubre de 2025 con el Máster Full Stack Developer.
+Mi objetivo es simple: Entregar código que marque la diferencia. Me especializo en crear aplicaciones que no solo sean robustas técnicamente, sino también claras, intuitivas y que realmente resuelvan un problema al usuario.
 
----
+💡 Me defino como una persona que disfruta aprender cada día y que encuentra una motivación genuina en desentrañar retos complejos, aportando siempre una visión creativa y ordenada a cada línea de código. Estoy lista para ser parte de un equipo que me inspire a seguir creciendo.
+
 
 ## 🧩 Acerca de mí
-
-Disfruto resolviendo retos reales y creando aplicaciones que aporten valor a los usuarios.  
 
 Completé el **Máster Full Stack Developer en NEOLAND**, trabajando en proyectos completos de frontend y backend con un enfoque práctico y profesional. Durante este tiempo he usado tecnologías como **HTML, CSS, JavaScript, TypeScript, Angular, React, Node.js, Express y MongoDB**, desarrollando proyectos reales, colaborando en equipo, gestionando versiones con Git y aplicando buenas prácticas de programación.  
 
@@ -26,10 +25,7 @@ Soy organizada y metódica, disfruto resolviendo problemas de forma práctica y 
 - **Qué hace:** Dashboard interactivo, componentes reutilizables y diseño responsive  
 - **Trabajo en equipo:** Git, control de versiones, revisión de código y metodologías ágiles  
 - **Herramientas adicionales:** Swagger para documentación e integración de API  
-- **Repo / Demo:** [TorcerBeard FrontEnd](https://torced-bird-front-end.vercel.app/)  
-
-#### Vista previa
-![Captura](link-a-captura-o-gif)
+- **Enlace ** [TorcerBeard FrontEnd](https://torced-bird-front-end.vercel.app/)  
 
 ---
 
@@ -62,20 +58,28 @@ Soy organizada y metódica, disfruto resolviendo problemas de forma práctica y 
 ## 📊 Estadísticas en GitHub
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Estadísticas GitHub" src="https://github-readme-stats.vercel.app/api?username=srtalonso&show_icons=true&count_private=true&locale=en&theme=chartreuse-dark&layout=compact" width="550px"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srtalonso&langs_count=10&show_icons=true&locale=es&theme=outrun"  width="292px"/>
+  <a href="https://github.com/azucenaalonso/github-readme-stats">
+  <img alt="Estadísticas GitHub" src="https://github-readme-stats.vercel.app/api?username=azucenaalonso&show_icons=true&count_private=true&locale=en&theme=chartreuse-dark&layout=compact" width="550px"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azucenaalonso&langs_count=10&show_icons=true&locale=es&theme=outrun"  width="292px"/>
 </div>
 
 ---
 
 ## 📚 Formación
 
-🎓 **Máster Full Stack Developer – NEOLAND (Completado)**  
+🎓 **Máster Full Stack Developer – NEOLAND**  
 - Desarrollo completo de aplicaciones Frontend y Backend  
 - Proyectos reales trabajando en equipo  
 - Gestión de versiones con Git y metodologías ágiles  
 - Proyecto final profesional: **TorcerBeard FrontEnd**
+
+
+🎓 **Certificado Profesionalidad- Desarrollo aplicaciones Técnologia Web** 
+-  Desarrollar elementos software en el entorno cliente.
+-  Desarrollar elementos software en el entorno servidor.
+-  Implementar, verificar y documentar aplicaciones web en entornos internet, 
+intranet y extranet.s  
+- Prácticas laborales en empresa
 
 ---
 
